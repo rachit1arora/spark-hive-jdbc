@@ -9,6 +9,8 @@ Although connecting with Apache Hive via jdbc is not very efficient way and shou
 
 Before proceeding to use code from this repository, a caution statement that this implementation is not efficient and also not recommended and to be used in scnarios where other ways to access Apache Hive is not an option for your use case and need to access Apache hive via jdbc only.
 
+This Blog Story explain the changes in detail  https://medium.com/ibm-data-ai/reading-and-writing-spark-dataframe-via-jdbc-with-apache-hive-178fd01e0218
+
 #### Building the code
 
 #### Using JDBC Dialect for reading Hive table in Spark via jdbc
